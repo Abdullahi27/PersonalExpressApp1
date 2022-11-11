@@ -1,26 +1,70 @@
 body {
-  background: lightblue;
+  background: #F6E651;
 }
 
-body div{
-  width: 40%;
-  height: 250px;
+body{
+  width: 100%;
+  height: auto;
   align-items: center;
   text-align: center;
   margin: auto;
-  margin-top: 50px;
+  margin-top: 30px;
 }
 
 
 h1{
-  margin-top: 10px;
+  text-transform: uppercase;
+  margin-top: 5px;
 }
 
-#result {
-  font-size: 34px;
+span {
+  text-transform: uppercase;
 }
 
 img {
-  width: 35%;
-  height: 198px;
+  margin-left: 15px;
+  margin-top: 10px;
+  float: left;
+  width: 100px;
 }
+
+.imgDel {
+  width: 20%;
+  height: 120px;
+  margin-top: 15px;
+  align-items: center;
+  margin: auto;
+
+}
+
+.save {
+  margin-left: -160px;
+  width: 53%;
+}
+
+#deletebtn {
+  margin: auto;
+  margin-left: 30px;
+  margin-top: 20px;
+  float: left
+}
+
+
+
+.box {
+  width: 50%;
+  height: 300px;
+  background-color: orange;
+  margin: auto;
+}
+
+.save {
+  width: auto;
+  height: auto;
+  margin-right: 90px;
+  margin-top: 20px;
+}
+
+
+
+
