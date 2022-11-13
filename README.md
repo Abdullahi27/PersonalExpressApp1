@@ -1,8 +1,8 @@
-## Bookmark Your Favorite Movies
+## Find Your Pokemon! 
 
-<img width="1456" alt="FSapp1" src="https://user-images.githubusercontent.com/111465917/201546834-e485722b-0c33-41ae-a5c2-50151aa3bad6.png">
+<img width="931" alt="personalapp" src="https://user-images.githubusercontent.com/111465917/201547017-31a8c66f-04f1-4a7f-9ea5-c55ee8eb8727.png">
 
-This website allows you to login and search for your favorite movies and bookmark them. You can also rate the movie!
+This website allows you to login and search for any Pokemon and save it. You can also give your Pokemon a power level from 0-100.
 
 
 
